@@ -7,8 +7,9 @@ Created on Wed Jan 17 08:56:40 2024
 This script calculates the critical temperature 
 using Equation 6 from Dignon et al, 2018.
 Takes the same input file as the python phase
-fitting script from Brady et al, 2017:
-*.txt file that is tab delimited with no header
+fitting script from Brady et al, 2017 (GitHub link):
+*.txt file that is tab delimited with no header.
+The column ordering is as follows:
 Temperature in Kelvin
 Low Density (mg/mL)
 Low Density Std
